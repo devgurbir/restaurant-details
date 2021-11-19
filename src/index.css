@@ -5,9 +5,63 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  padding: 0;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.addRestaurant {
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.addRestaurant > form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.addRestaurant > form > input, button {
+  width: 500px;
+  padding: 10px;
+}
+
+
+.listOfRestaurants {
+  margin: 0 auto;
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+
+.restaurantCard {
+  margin-top: 20px;
+  padding: 10px;
+  display: flex;
+  gap: 20px;
+  border: 1px solid #ccc;
+  width: 690px;
+  
+  /* align-items: flex-end; */
+}
+
+.restaurantInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.restaurantInfo h2 {
+  color: #b32832;
+}
+
+.ratingBox {
+  margin-left: 20px;
+  justify-self: end;
+  color: green;
 }

@@ -1,0 +1,76 @@
+{
+  "restaurants": [
+    {
+      "name": "Bansal Amritsar Food Street",
+      "categories": ["North Indian"],
+      "rating": 4.2,
+      "numberOfReviews": 570,
+      "heroImage": "https://b.zmtcdn.com/data/pictures/chains/1/121791/96f442aa10da73166a196946d6b96449.jpg",
+      "paymentMethods": ["Debit Card", "Credit Card", "Cash"]
+    },
+    {
+      "name": "Food@U",
+      "categories": ["North Indian", "Chinese", "Italian", "Fast Food", "Desserts"],
+      "rating": 3.5,
+      "numberOfReviews": 40,
+      "heroImage": "https://b.zmtcdn.com/data/pictures/3/122653/d8e4c579dd7895cde56a8ebdb85e2eca.jpeg",
+      "paymentMethods": ["Debit Card", "Google Pay", "PayTM"]
+    },
+    {
+      "name": "Pashtun",
+      "categories": ["North Indian", "Mughlai"],
+      "rating": 4.1,
+      "numberOfReviews": 473,
+      "heroImage": "https://b.zmtcdn.com/data/pictures/2/120162/27ef30f725f272f38c7b17dfa55a76c7.jpg",
+      "paymentMethods": ["Cash"]
+    },
+    {
+      "name": "Amritsari Kulcha Hub",
+      "categories": ["North Indian", "Street Food"],
+      "rating": 3.3,
+      "numberOfReviews": 321,
+      "heroImage": "https://b.zmtcdn.com/data/pictures/chains/5/121925/1d702e5c86cb67c361f27bc6ae1ad13d.jpg",
+      "paymentMethods": ["Debit Card"]
+    },
+    {
+      "name": "Wah Ji Wah",
+      "categories": ["North Indian", "Chinese", "Fast Food", "Rolls", "Street Food"],
+      "rating": 2.9,
+      "numberOfReviews": 316,
+      "heroImage": "https://b.zmtcdn.com/data/pictures/chains/1/121791/96f442aa10da73166a196946d6b96449.jpg",
+      "paymentMethods": ["Debit Card", "Credit Card", "Cash"]
+    },
+    {
+      "name": "Amritsari Kulcha King",
+      "categories": ["North Indian"],
+      "rating": 1.8,
+      "numberOfReviews": 171,
+      "heroImage": "https://b.zmtcdn.com/data/pictures/3/122653/d8e4c579dd7895cde56a8ebdb85e2eca.jpeg",
+      "paymentMethods": ["Debit Card", "Google Pay", "PayTM"]
+    },
+    {
+      "name": "Sunset Desire",
+      "categories": ["North Indian", "Mughlai", "Chinese", "Seafood", "Burger", "Sandwich", "Momos", "Shake"],
+      "rating": 0.8,
+      "numberOfReviews": 219,
+      "heroImage": "https://b.zmtcdn.com/data/pictures/2/120162/27ef30f725f272f38c7b17dfa55a76c7.jpg",
+      "paymentMethods": ["Debit Card", "Google Pay", "PayTM"]
+    },
+    {
+      "name": "The Great Kabab Factory",
+      "categories": ["North Indian", "Kebab"],
+      "rating": 4.1,
+      "numberOfReviews": 329,
+      "heroImage": "https://b.zmtcdn.com/data/pictures/chains/5/121925/1d702e5c86cb67c361f27bc6ae1ad13d.jpg",
+      "paymentMethods": ["Cash"]
+    },
+    {
+      "name": "Preet Eating Zone",
+      "categories": ["North Indian"],
+      "rating": 4.4,
+      "numberOfReviews": 573,
+      "heroImage": "https://b.zmtcdn.com/data/pictures/chains/5/121925/1d702e5c86cb67c361f27bc6ae1ad13d.jpg",
+      "paymentMethods": ["Debit Card"]
+    }
+  ]
+}
